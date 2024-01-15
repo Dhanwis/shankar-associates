@@ -3047,7 +3047,7 @@ a.sbold {
     font-family: "Montserrat";
     color: #008e00;
     text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 800;
 }
 
 .slide-title-4 {
@@ -3055,6 +3055,7 @@ a.sbold {
     color: #ffffff;
     text-transform: lowercase;
     text-align: center;
+    font-weight: 500;
 }
 
 #revolution-slider4 .tparrows.gyges {
